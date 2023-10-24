@@ -1,5 +1,8 @@
 # Poultry-Firm-Automation-System
 
+
+
+### MORE UNDERSTAND DOWNLODE THE DOCX FILE AND READ IT......
   SYMMETRIC DESCRIPTION
 
 First of all, we were taking the environment temperature using a temperature sensor LM-35. We were used four sensor for finding four different places temperature of the poultry farm such that we did catch the approximate temperature of the poultry farm. Then we calculated average temperature of those four temperature values. We were select two threshold values using two button as button-1 and button-2. Button-1 was used to increase minimum/maximum threshold value and Button-2 was used to decreased the minimum/maximum threshold value. With respect to the average temperature and two threshold, the objects will shift on into off or off into on. The objects can be fans, lights, motors, generator, alarm, air conditioner etc. 
